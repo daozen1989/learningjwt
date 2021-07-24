@@ -1,4 +1,35 @@
 ﻿<Properties StartupConfiguration="{98E17018-C644-4B82-A4BD-29F342485B70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Learning.Jwt/Startup.cs">
+    <Files>
+      <File FileName="Learning.Jwt/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Learning.Jwt/Controllers/LoginController.cs" Line="96" Column="32" />
+      <File FileName="Learning.Jwt/Models/UserModel.cs" Line="12" Column="1" />
+      <File FileName="Learning.Jwt/appsettings.json" Line="13" Column="12" />
+      <File FileName="Learning.Jwt/Startup.cs" Line="28" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Learning.Jwt" expanded="True">
+            <Node name="Learning.Jwt" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Learning.Jwt FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Learning.Jwt PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
