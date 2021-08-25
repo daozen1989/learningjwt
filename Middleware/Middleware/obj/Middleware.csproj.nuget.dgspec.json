@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJECT\\Learning\\learningjwt\\Learning.Jwt\\Learning.Jwt\\Learning.Jwt.csproj": {}
+    "D:\\PROJECT\\Learning\\learningjwt\\Middleware\\Middleware\\Middleware.csproj": {}
   },
   "projects": {
-    "D:\\PROJECT\\Learning\\learningjwt\\Learning.Jwt\\Learning.Jwt\\Learning.Jwt.csproj": {
+    "D:\\PROJECT\\Learning\\learningjwt\\Middleware\\Middleware\\Middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJECT\\Learning\\learningjwt\\Learning.Jwt\\Learning.Jwt\\Learning.Jwt.csproj",
-        "projectName": "Learning.Jwt",
-        "projectPath": "D:\\PROJECT\\Learning\\learningjwt\\Learning.Jwt\\Learning.Jwt\\Learning.Jwt.csproj",
+        "projectUniqueName": "D:\\PROJECT\\Learning\\learningjwt\\Middleware\\Middleware\\Middleware.csproj",
+        "projectName": "Middleware",
+        "projectPath": "D:\\PROJECT\\Learning\\learningjwt\\Middleware\\Middleware\\Middleware.csproj",
         "packagesPath": "C:\\Users\\LAPDC\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJECT\\Learning\\learningjwt\\Learning.Jwt\\Learning.Jwt\\obj\\",
+        "outputPath": "D:\\PROJECT\\Learning\\learningjwt\\Middleware\\Middleware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,20 +44,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[3.1.17, )"
-            },
-            "Microsoft.IdentityModel.Tokens": {
-              "target": "Package",
-              "version": "[6.12.0, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[6.12.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
